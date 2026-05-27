@@ -1,1 +1,1 @@
-print ("hola mundo")
+npm create vite@latest hola
